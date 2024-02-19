@@ -1,0 +1,15 @@
+There were 45440 MLHU cases in total.
+Of those, there were 39356 cases reported in London.
+There were 5480 cases reported in Middlesex County.
+There were 604 cases reported from an unknown location.
+
+Overall cases by age group:
+People under 40 accounted for 24206 case(s).
+People between 40 and 80 accounted for 17350 case(s)
+People over 80 accounted for 3884 case(s).
+
+The most cases occurred on 2021-12-30.
+On that date, there were 715 cases, broken down by age as follows:
+470 case(s) under 40.
+233 case(s) 40 to 80.
+12 case(s) over 80.
